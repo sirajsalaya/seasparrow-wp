@@ -1,0 +1,8 @@
+<a href="tel:971565797385">[gdlr_core_icon icon="fa fa-phone" size="16px" color="#ffffff" margin-left="" margin-right="10px" ] 971565797385</a>
+<a href = "mailto:contact@seasparrowyachts.com"> [gdlr_core_icon icon="fa fa-envelope-o" size="16px" color="#ffffff" margin-left="30px" margin-right="10px" ] contact@seasparrowyachts.com</a>
+
+<a href="https://wa.me/971565797385?text=I%27m%20interested%20in%20yacht%20charter" target="_blank">[gdlr_core_icon icon="fa fa-whatsapp" size="16px" color="#ffffff" margin-left="30px" margin-right="10px" ]</a>
+<a href="https://linkedin.com/seasparrowyatchs/" target="_blank">[gdlr_core_icon icon="fa fa-instagram" size="16px" color="#ffffff" margin-left="30px" margin-right="10px" ]</a>
+<a href="https://facebook.com/seasparrowyatchs/" target="_blank">[gdlr_core_icon icon="fa fa-facebook" size="16px" color="#ffffff" margin-left="30px" margin-right="10px" ]</a>
+
+ngrok http 80 --host-header="localhost:80/seasparrow"

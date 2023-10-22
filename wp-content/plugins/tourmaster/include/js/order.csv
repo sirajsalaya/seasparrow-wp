@@ -1,0 +1,8 @@
+"Order ID",Room,"Contact Name","Contact Email","Contact Number","Customer's Note","Booking Date","Total Price","Payment Status","Link To Transaction"
+#1,"Room : Rwar
+1 Room
+November 12, 2022 - November 16, 2022 (4 Nights)
+Room : Rwar
+1 Room
+November 16, 2022 - November 20, 2022 (4 Nights)
+","2 3",nao.null@gmail.com,4," ","November 16, 2022",$91.56,Approved,http://localhost/traveltour/wp-admin/admin.php?room_id&page=tourmaster_room_order&single=1
