@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'seasparrow' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'seasparrow-admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'seasparrow143' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
